@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_snc_bps_testing_test_table_222</description>
+        <name>x_snc_bps_testing_test_table_222</name>
+        <operation display_value="write">write</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 19:27:37</sys_created_on>
+        <sys_id>87a900e847a155d057b22430a46d43de</sys_id>
+        <sys_name>x_snc_bps_testing_test_table_222</sys_name>
+        <sys_package display_value="BPS Testing" source="x_snc_bps_testing">ade94398476d15d057b22430a46d4382</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BPS Testing">ade94398476d15d057b22430a46d4382</sys_scope>
+        <sys_update_name>sys_security_acl_87a900e847a155d057b22430a46d43de</sys_update_name>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
