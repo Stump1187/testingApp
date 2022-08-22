@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description>Test</description>
+        <device_type>browser</device_type>
+        <hint>Test</hint>
+        <name/>
+        <order/>
+        <roles>admin</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-08-22 14:49:25</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ebf98798476d15d057b22430a46d433a</sys_id>
+        <sys_name>BPS Testing</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="BPS Testing" source="x_snc_bps_testing">ade94398476d15d057b22430a46d4382</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="BPS Testing">ade94398476d15d057b22430a46d4382</sys_scope>
+        <sys_update_name>sys_app_application_ebf98798476d15d057b22430a46d433a</sys_update_name>
+        <title>BPS Testing</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
