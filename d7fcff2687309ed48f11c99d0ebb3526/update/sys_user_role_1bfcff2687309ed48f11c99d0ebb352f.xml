@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_snc_brandon_app.admin</name>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>brandon.smith</sys_created_by>
+        <sys_created_on>2024-09-25 20:16:03</sys_created_on>
+        <sys_id>1bfcff2687309ed48f11c99d0ebb352f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_snc_brandon_app.admin</sys_name>
+        <sys_package display_value="Brandon App" source="x_snc_brandon_app">d7fcff2687309ed48f11c99d0ebb3526</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Brandon App">d7fcff2687309ed48f11c99d0ebb3526</sys_scope>
+        <sys_update_name>sys_user_role_1bfcff2687309ed48f11c99d0ebb352f</sys_update_name>
+        <sys_updated_by>brandon.smith</sys_updated_by>
+        <sys_updated_on>2024-09-25 20:16:03</sys_updated_on>
+    </sys_user_role>
+</record_update>
